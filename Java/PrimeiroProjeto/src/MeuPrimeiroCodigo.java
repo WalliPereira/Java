@@ -1,7 +1,7 @@
 public class MeuPrimeiroCodigo {
 
     public static void main(String[] args) {
-        System.out.println("O tobinha preto");
+        System.out.println("Primeira vez no Java");
     }
 
     // metodos: sao instrucoes que define para o programa executar.
