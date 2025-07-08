@@ -1,5 +1,7 @@
 // Programa para medir a area de um triangulo.
 
+
+// Import para ler algo digitado pelo usuario
 import java.util.Scanner;
 class MeuPrimeiroPrograma {
 
@@ -7,6 +9,7 @@ class MeuPrimeiroPrograma {
 
         Scanner s= new Scanner(System.in);
 
+            // Blocos de codigo para coletar o dado digitado pelo usuario.
             System.out.println("Insira a largura do triagulo: ");
             double b= s.nextDouble();
 
